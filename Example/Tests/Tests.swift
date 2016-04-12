@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import VIPERS-Wireframe
+import VIPERS_Wireframe
 
 class Tests: XCTestCase {
     

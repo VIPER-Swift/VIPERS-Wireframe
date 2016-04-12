@@ -23,20 +23,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>19583FD027D7CB80085E4EDD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>LICENSE</string>
-			<key>path</key>
-			<string>../LICENSE</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2B69DB99E6E64782EE93C8AE</key>
+		<key>180F3543F342F288CEAC728A</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -45,37 +32,13 @@
 			<key>lastKnownFileType</key>
 			<string>text.xcconfig</string>
 			<key>name</key>
-			<string>Pods-VIPERS-Wireframe_Tests.release.xcconfig</string>
+			<string>Pods.debug.xcconfig</string>
 			<key>path</key>
-			<string>Pods/Target Support Files/Pods-VIPERS-Wireframe_Tests/Pods-VIPERS-Wireframe_Tests.release.xcconfig</string>
+			<string>Pods/Target Support Files/Pods/Pods.debug.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>37CF07E221821D1F11749EA3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Embed Pods Frameworks</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-VIPERS-Wireframe_Tests/Pods-VIPERS-Wireframe_Tests-frameworks.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>49575359D9B1FDD2FC3F6382</key>
+		<key>191BEC0B761B8AA903C1AE07</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
@@ -105,7 +68,33 @@ fi
 			<key>showEnvVarsInLog</key>
 			<string>0</string>
 		</dict>
-		<key>4A42D82166525EF48E6373EC</key>
+		<key>19583FD027D7CB80085E4EDD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>LICENSE</string>
+			<key>path</key>
+			<string>../LICENSE</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2A9C684B7CC12D1C9FDC9EC1</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>Pods_VIPERS_Wireframe_Tests.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>5829C6312FC05967B6B6015F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -114,16 +103,55 @@ fi
 			<key>lastKnownFileType</key>
 			<string>text.xcconfig</string>
 			<key>name</key>
-			<string>Pods-VIPERS-Wireframe_Tests.debug.xcconfig</string>
+			<string>Pods-VIPERS-Wireframe_Tests.release.xcconfig</string>
 			<key>path</key>
-			<string>Pods/Target Support Files/Pods-VIPERS-Wireframe_Tests/Pods-VIPERS-Wireframe_Tests.debug.xcconfig</string>
+			<string>Pods/Target Support Files/Pods-VIPERS-Wireframe_Tests/Pods-VIPERS-Wireframe_Tests.release.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>57EBBC1112B5A1E6FF8F7E05</key>
+		<key>5B651309C486B21D051851B8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>name</key>
+			<string>Pods.release.xcconfig</string>
+			<key>path</key>
+			<string>Pods/Target Support Files/Pods/Pods.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5CB5A750043D40789696DB9D</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>inputPaths</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXShellScriptBuildPhase</string>
+			<key>name</key>
+			<string>Copy Pods Resources</string>
+			<key>outputPaths</key>
+			<array/>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+			<key>shellPath</key>
+			<string>/bin/sh</string>
+			<key>shellScript</key>
+			<string>"${SRCROOT}/Pods/Target Support Files/Pods-VIPERS-Wireframe_Tests/Pods-VIPERS-Wireframe_Tests-resources.sh"
+</string>
+			<key>showEnvVarsInLog</key>
+			<string>0</string>
+		</dict>
+		<key>5DE007FF7975C040D85BAD29</key>
 		<dict>
 			<key>fileRef</key>
-			<string>AB6D7A2D8D31A4BFA26FE407</string>
+			<string>6459BD24C40D8BF55A3D10DE</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -135,8 +163,8 @@ fi
 				<string>607FACD21AFB9204008FA782</string>
 				<string>607FACE81AFB9204008FA782</string>
 				<string>607FACD11AFB9204008FA782</string>
-				<string>DEC6D00A47201255BF9D5C92</string>
 				<string>AF17B33C76CD0997A52D3753</string>
+				<string>7F34F6742E5B9C59D6A4D546</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -234,7 +262,8 @@ fi
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>E9FFDF503CB7E4522BF12834</string>
+				<string>5DE007FF7975C040D85BAD29</string>
+				<string>DEF95BED69BE132F83086111</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
@@ -262,12 +291,12 @@ fi
 			<string>607FACEF1AFB9204008FA782</string>
 			<key>buildPhases</key>
 			<array>
-				<string>49575359D9B1FDD2FC3F6382</string>
+				<string>191BEC0B761B8AA903C1AE07</string>
 				<string>607FACCC1AFB9204008FA782</string>
 				<string>607FACCD1AFB9204008FA782</string>
 				<string>607FACCE1AFB9204008FA782</string>
-				<string>8A05DC84BB819171D052115D</string>
-				<string>698245CDA262F08695AF5ED1</string>
+				<string>8B49719327D472993E06EDDF</string>
+				<string>87A4A6DFE9746A35DAF3F8D1</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
@@ -494,7 +523,7 @@ fi
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>57EBBC1112B5A1E6FF8F7E05</string>
+				<string>97007A74EB24F56F06F59360</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
@@ -518,12 +547,12 @@ fi
 			<string>607FACF21AFB9204008FA782</string>
 			<key>buildPhases</key>
 			<array>
-				<string>F25D2AC98F85D6B828A2060C</string>
+				<string>63C7B28E47182954416E7299</string>
 				<string>607FACE11AFB9204008FA782</string>
 				<string>607FACE21AFB9204008FA782</string>
 				<string>607FACE31AFB9204008FA782</string>
-				<string>37CF07E221821D1F11749EA3</string>
-				<string>C37A81A83B399C49E0DDBD64</string>
+				<string>7EB798EEB6E6B18190E97AD3</string>
+				<string>5CB5A750043D40789696DB9D</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
@@ -807,7 +836,7 @@ fi
 		<key>607FACF01AFB9204008FA782</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>9EAC657B37B3B4BEE1E1E76F</string>
+			<string>180F3543F342F288CEAC728A</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
@@ -831,7 +860,7 @@ fi
 		<key>607FACF11AFB9204008FA782</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>A2E1F764A8A640BE34B99504</string>
+			<string>5B651309C486B21D051851B8</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
@@ -869,7 +898,7 @@ fi
 		<key>607FACF31AFB9204008FA782</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>4A42D82166525EF48E6373EC</string>
+			<string>86D2B182423C9B827E22A195</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
@@ -899,7 +928,7 @@ fi
 		<key>607FACF41AFB9204008FA782</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>2B69DB99E6E64782EE93C8AE</string>
+			<string>5829C6312FC05967B6B6015F</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
@@ -936,98 +965,7 @@ fi
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>698245CDA262F08695AF5ED1</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-VIPERS-Wireframe_Example/Pods-VIPERS-Wireframe_Example-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>7A29D0CEE2C674F001966237</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>README.md</string>
-			<key>path</key>
-			<string>../README.md</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8A05DC84BB819171D052115D</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Embed Pods Frameworks</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-VIPERS-Wireframe_Example/Pods-VIPERS-Wireframe_Example-frameworks.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>9EAC657B37B3B4BEE1E1E76F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-VIPERS-Wireframe_Example.debug.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-VIPERS-Wireframe_Example/Pods-VIPERS-Wireframe_Example.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A2E1F764A8A640BE34B99504</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-VIPERS-Wireframe_Example.release.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-VIPERS-Wireframe_Example/Pods-VIPERS-Wireframe_Example.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AB6D7A2D8D31A4BFA26FE407</key>
+		<key>61D307764FECA2753B4FCD8D</key>
 		<dict>
 			<key>explicitFileType</key>
 			<string>wrapper.framework</string>
@@ -1036,72 +974,11 @@ fi
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>Pods_VIPERS_Wireframe_Tests.framework</string>
+			<string>Pods_VIPERS_Wireframe_Example.framework</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>AF17B33C76CD0997A52D3753</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>FC312AC85BBC4293805B1C2B</string>
-				<string>AB6D7A2D8D31A4BFA26FE407</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C37A81A83B399C49E0DDBD64</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-VIPERS-Wireframe_Tests/Pods-VIPERS-Wireframe_Tests-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>DEC6D00A47201255BF9D5C92</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>9EAC657B37B3B4BEE1E1E76F</string>
-				<string>A2E1F764A8A640BE34B99504</string>
-				<string>4A42D82166525EF48E6373EC</string>
-				<string>2B69DB99E6E64782EE93C8AE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E9FFDF503CB7E4522BF12834</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FC312AC85BBC4293805B1C2B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F25D2AC98F85D6B828A2060C</key>
+		<key>63C7B28E47182954416E7299</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
@@ -1131,7 +1008,7 @@ fi
 			<key>showEnvVarsInLog</key>
 			<string>0</string>
 		</dict>
-		<key>FC312AC85BBC4293805B1C2B</key>
+		<key>6459BD24C40D8BF55A3D10DE</key>
 		<dict>
 			<key>explicitFileType</key>
 			<string>wrapper.framework</string>
@@ -1140,9 +1017,154 @@ fi
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>Pods_VIPERS_Wireframe_Example.framework</string>
+			<string>Pods.framework</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>7A29D0CEE2C674F001966237</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>README.md</string>
+			<key>path</key>
+			<string>../README.md</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7EB798EEB6E6B18190E97AD3</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>inputPaths</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXShellScriptBuildPhase</string>
+			<key>name</key>
+			<string>Embed Pods Frameworks</string>
+			<key>outputPaths</key>
+			<array/>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+			<key>shellPath</key>
+			<string>/bin/sh</string>
+			<key>shellScript</key>
+			<string>"${SRCROOT}/Pods/Target Support Files/Pods-VIPERS-Wireframe_Tests/Pods-VIPERS-Wireframe_Tests-frameworks.sh"
+</string>
+			<key>showEnvVarsInLog</key>
+			<string>0</string>
+		</dict>
+		<key>7F34F6742E5B9C59D6A4D546</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>180F3543F342F288CEAC728A</string>
+				<string>5B651309C486B21D051851B8</string>
+				<string>86D2B182423C9B827E22A195</string>
+				<string>5829C6312FC05967B6B6015F</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>86D2B182423C9B827E22A195</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>name</key>
+			<string>Pods-VIPERS-Wireframe_Tests.debug.xcconfig</string>
+			<key>path</key>
+			<string>Pods/Target Support Files/Pods-VIPERS-Wireframe_Tests/Pods-VIPERS-Wireframe_Tests.debug.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>87A4A6DFE9746A35DAF3F8D1</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>inputPaths</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXShellScriptBuildPhase</string>
+			<key>name</key>
+			<string>Copy Pods Resources</string>
+			<key>outputPaths</key>
+			<array/>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+			<key>shellPath</key>
+			<string>/bin/sh</string>
+			<key>shellScript</key>
+			<string>"${SRCROOT}/Pods/Target Support Files/Pods-VIPERS-Wireframe_Example/Pods-VIPERS-Wireframe_Example-resources.sh"
+</string>
+			<key>showEnvVarsInLog</key>
+			<string>0</string>
+		</dict>
+		<key>8B49719327D472993E06EDDF</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>inputPaths</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXShellScriptBuildPhase</string>
+			<key>name</key>
+			<string>Embed Pods Frameworks</string>
+			<key>outputPaths</key>
+			<array/>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+			<key>shellPath</key>
+			<string>/bin/sh</string>
+			<key>shellScript</key>
+			<string>"${SRCROOT}/Pods/Target Support Files/Pods-VIPERS-Wireframe_Example/Pods-VIPERS-Wireframe_Example-frameworks.sh"
+</string>
+			<key>showEnvVarsInLog</key>
+			<string>0</string>
+		</dict>
+		<key>97007A74EB24F56F06F59360</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2A9C684B7CC12D1C9FDC9EC1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AF17B33C76CD0997A52D3753</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>6459BD24C40D8BF55A3D10DE</string>
+				<string>61D307764FECA2753B4FCD8D</string>
+				<string>2A9C684B7CC12D1C9FDC9EC1</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DEF95BED69BE132F83086111</key>
+		<dict>
+			<key>fileRef</key>
+			<string>61D307764FECA2753B4FCD8D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>

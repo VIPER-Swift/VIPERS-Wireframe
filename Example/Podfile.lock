@@ -1,0 +1,23 @@
+PODS:
+  - JLRoutes (1.6)
+  - VIPERS-Wireframe (0.1.0):
+    - JLRoutes
+    - VIPERS-Wireframe-Protocol
+  - VIPERS-Wireframe-Protocol (0.1.1)
+
+DEPENDENCIES:
+  - VIPERS-Wireframe (from `../`)
+  - VIPERS-Wireframe-Protocol (from `../../VIPERS-Wireframe-Protocol`)
+
+EXTERNAL SOURCES:
+  VIPERS-Wireframe:
+    :path: "../"
+  VIPERS-Wireframe-Protocol:
+    :path: "../../VIPERS-Wireframe-Protocol"
+
+SPEC CHECKSUMS:
+  JLRoutes: 435d791422e96c9b9b5e1c4db1aedb3ae1b1a08f
+  VIPERS-Wireframe: 39dcf65432ad70a5994c4abbab5064fed130aef1
+  VIPERS-Wireframe-Protocol: 2b1a03e8e7f2268cead03ee85be2d06473fe753a
+
+COCOAPODS: 0.39.0

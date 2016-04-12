@@ -1,0 +1,6 @@
+framework module VIPERS_Wireframe_Protocol {
+  umbrella header "VIPERS-Wireframe-Protocol-umbrella.h"
+
+  export *
+  module * { export * }
+}
