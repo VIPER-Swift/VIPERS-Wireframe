@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '9CE7CEF351B8BE47BBF458E0'
+               BlueprintIdentifier = '1C9B83DE4102BAF2AF7583C8'
                BlueprintName = 'VIPERS-Wireframe'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'VIPERS_Wireframe.framework'>

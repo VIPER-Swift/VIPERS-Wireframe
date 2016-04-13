@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9906C895633E2F7607C99B1567EBBEEF5158E694",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2B555C8FFA83219F1A67A6C26EDB701844048C32" : 0,
+    "9906C895633E2F7607C99B1567EBBEEF5158E694" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4D9A393F-D6F8-4FFF-9492-608BEB164C8B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2B555C8FFA83219F1A67A6C26EDB701844048C32" : "VIPERS-Wireframe-Protocol\/",
+    "9906C895633E2F7607C99B1567EBBEEF5158E694" : "VIPERS-Wireframe\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VIPERS-Wireframe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/VIPERS-Wireframe.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:VIPER-Swift\/VISPERS-Wireframe-Protocol.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2B555C8FFA83219F1A67A6C26EDB701844048C32"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VIPER-Swift\/VIPERS-Wireframe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9906C895633E2F7607C99B1567EBBEEF5158E694"
+    }
+  ]
+}
